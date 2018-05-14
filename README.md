@@ -9,9 +9,9 @@ the leaves of mangoes from other leaves.
 Mango = 1
 Other = 0
 
-#Summary of the Model
+# Summary of the Model
 
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Param    
 =================================================================
 conv2d_4 (Conv2D)            (None, 148, 148, 32)      896       
 _________________________________________________________________
